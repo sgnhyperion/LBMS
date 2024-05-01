@@ -4,4 +4,3 @@ public enum BookStatus {
     ISSUED,
     NOT_ISSUED
 }
-
