@@ -5,6 +5,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.util.List;
+
 @Getter
 @Setter
 @NoArgsConstructor
@@ -17,7 +19,7 @@ public class Book {
     private String title;
     private String author;
     private Genre genre;
-//    @ManyToOne
+    //    @ManyToOne
 //    private List<Long> patron;
     private Long isbn;
     private BookStatus bookStatus;
