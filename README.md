@@ -85,5 +85,3 @@ The Library Management System (LMS) is a software application designed to stream
 
 ## Conclusion
 The Library Management System is a robust and efficient solution for managing library operations. With its user-friendly interface and comprehensive features, it enhances the efficiency and effectiveness of library management processes.
-
-*Documentation* o
